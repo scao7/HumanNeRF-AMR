@@ -1,0 +1,4 @@
+dataset:
+  path: ../../processed_data/
+  subject: 'treadmill3_train_new'
+  sex: 'neutral'

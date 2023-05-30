@@ -1,0 +1,10 @@
+*.pyc
+*.mp4
+videos
+videos/
+experiments
+experiments/
+processed_data/
+processed_data
+exp_results/
+exp_results
